@@ -23,6 +23,8 @@ ExoplanetExplorer is a **Java application** built with **JavaFX** that lets user
 - Maven/Gradle (optional) for dependency management
 
 ## Screenshots
+<img width="1359" height="721" alt="image" src="https://github.com/user-attachments/assets/4f6cba2d-8811-45df-ab93-de89ac507a78" />
+
 <img width="966" height="742" alt="image" src="https://github.com/user-attachments/assets/23675bf5-aafe-44f8-acac-753eafbadfe5" />
 
 ## How to Run
