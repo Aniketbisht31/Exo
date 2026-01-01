@@ -1,4 +1,4 @@
-# ExoplanetExplorer 🌌
+# ExoplanetExplorer 
 
 ExoplanetExplorer is a **Java application** built with **JavaFX** that lets users explore known exoplanets, calculate their **habitability scores**, and analyze planetary data. The app integrates NASA exoplanet data and provides multiple habitability models for scientific exploration.
 
